@@ -1,0 +1,17 @@
+domain,n_problem,SAT_temps,SAT_taille,HSP_temps,HSP_taille
+blocks_domain,1,0.15,0,0.15,5
+blocks_domain,2,0.25,0,0.05,9
+blocks_domain,3,0.01,0,0.04,5
+blocks_domain,4,0.01,0,0.09,11
+depots_domain,1,0.11,0,0.31,9
+depots_domain,2,0.33,0,0.28,14
+depots_domain,3,0.08,0,3.65,28
+depots_domain,4,0.20,0,12.96,29
+gripper_domain,1,0.01,0,0.30,10
+gripper_domain,2,0.02,0,0.22,16
+gripper_domain,3,0.01,0,1.42,22
+gripper_domain,4,0.01,0,2.77,28
+logistics_domain,1,0.37,0,0.47,19
+logistics_domain,2,0.07,0,0.41,18
+logistics_domain,3,0.10,0,0.10,14
+logistics_domain,4,0.04,0,0.50,26
